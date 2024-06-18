@@ -1,0 +1,3 @@
+List are ordered.
+List allows duplicate values.
+Here speed depends on size of items.

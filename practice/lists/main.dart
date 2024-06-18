@@ -10,7 +10,7 @@ void main() {
   List<String> names = ['Amrit', 'Rohan', 'Auraj'];
   print(names);
 
-// we can also create th above list by
+// we can also create the list by
   // var names = <String>['Amrit', 'Rohan', 'Auraj'];
   // print(names);
 
