@@ -1,0 +1,4 @@
+Order doesn't matter
+Duplicate is ignored 
+very fast to fetch element 
+use curly braces 
