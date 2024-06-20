@@ -33,6 +33,8 @@ void main() {
 // }
 
 // this function will print all the data
+// here from the declaration of async and await it makes getStudent() a asynchronous functions
+
 getStudent() async {
   try {
     const url = 'https://jsonplaceholder.typicode.com/users';
