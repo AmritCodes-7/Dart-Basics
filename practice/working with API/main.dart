@@ -8,7 +8,7 @@ void main() {
 
 // void function(Function functionparameter) {}
 
-// Future is an object that represents the result of an asynchronous operation and can have two states: uncompleted and completed.
+// future is an object that represents the result of an asynchronous operation and can have two states: uncompleted and completed.
 // Future <String> it means in future we will get String value
 
 // this method is not really used
